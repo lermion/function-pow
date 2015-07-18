@@ -1,5 +1,5 @@
 # function-pow
-My function a pow
+My function pow
 
 function pow(num, exp){
   var result = 1;
